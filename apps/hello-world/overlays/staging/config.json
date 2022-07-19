@@ -1,0 +1,10 @@
+{
+  "appName": "hello-world",
+  "userGivenName": "hello-world",
+  "destNamespace": "staging",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "apps/hello-world/overlays/staging",
+  "srcRepoURL": "https://github.com/lgirton-sdge/gitops.git",
+  "srcTargetRevision": "",
+  "labels": null
+}
